@@ -10,3 +10,8 @@ The web page will contain:
 - Photo gallery
 - Users, login and user registration
 - DashBoard for admin
+
+Useful links:
+- https://www.instagram.com/armariodenia/
+- http://bit.ly/3BJIJnn
+- https://linktr.ee/ArmariodeNia
