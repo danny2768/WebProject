@@ -16,3 +16,4 @@ Useful links:
 - http://bit.ly/3BJIJnn
 - https://linktr.ee/ArmariodeNia
 - https://getbootstrap.com/docs/5.0/examples/
+- https://www.svgrepo.com/vectors/
